@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&display=swap");
+
+body {
+  padding: 0px 44px;
+
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.react-modal-close {
+  position: absolute;
+  right: 1.5rem;
+  top: 1.5rem;
+  border: 0;
+  background: transparent;
+
+  transition: filter 0.2s;
+}
+
+.react-modal-content {
+  width: 100%;
+  max-width: 700px;
+  height: auto;
+  max-height: 400px;
+  background: #fff;
+  padding: 5rem;
+  position: relative;
+  border-radius: 0.25rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.react-modal-content a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.textContent p {
+  margin: 12px 0px;
+}
+
+.react-modal-overlay {
+  background: rgba(0, 0, 0, 0.5);
+
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
