@@ -4,10 +4,6 @@
 
 > This is a challenge by Coodesh
 
-## Link em produção
-
-https://pokedexnovatics.netlify.app
-
 ## Instalação local
 
 Para executar esse projeto em sua máquina siga os passos abaixo
