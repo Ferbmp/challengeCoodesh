@@ -27,6 +27,8 @@ yarn dev
 
 - [`styled-components`](https://styled-components.com/)
 
+- [`date-fns`](https://date-fns.org/)
+
 ## Estrutura de pastas
 
 ```
